@@ -8,6 +8,10 @@ var dssv = new DanhSachSinhVien();
 // tạo đối tượng validation từ lớp đối tượng validation
 var validation = new Validation();
 
+function addUser() {
+  console.log("12121212huynguyen");
+}
+
 function getELe(id) {
   return document.getElementById(id);
 }
