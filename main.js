@@ -9,7 +9,7 @@ var dssv = new DanhSachSinhVien();
 var validation = new Validation();
 
 function addUser() {
-  console.log("12121212huynguyen");
+  console.log("12121212huynguyen2");
 }
 
 function getELe(id) {
